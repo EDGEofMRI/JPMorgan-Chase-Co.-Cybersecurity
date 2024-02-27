@@ -1,3 +1,19 @@
 # JPMorgan-Chase-Co.-Cybersecurity
 
 This repository showcases a cybersecurity job simulation completed within JPMorgan Chase & Co. The simulation encompassed the analysis of a large dataset pertaining to fraud in financial payment services, along with learning and application of application security fundamentals on a personal website. Additionally, tasks involved building an email classifier to distinguish between spam and legitimate emails, as well as designing and developing a system to enhance access control for sensitive information. Key skills demonstrated include expertise in access control, application security hygiene, data structures, email security fundamentals, exploratory data analysis, utilization of open-source tools, effective presentation skills, implementation of text-based machine learning models, and web application development. The repository serves as a testament to proficiency in cybersecurity practices and their application in real-world scenarios within the financial services sector. 
+
+#Task One
+
+Task is analyzing a dataset of mobile money transactions recently acquired from a financial services provider. The dataset comprises five transaction types: CASH-IN (deposits), CASH-OUT (withdrawals), DEBIT (specific withdrawals to user bank accounts), PAYMENT (goods or services purchases), and TRANSFER (moving money between user accounts). Additionally, two fields relate to fraud tagging: IsFlaggedFraud indicates fraud detected by the automation system, while IsFraud denotes actual instances of fraud. 
+
+#Task Two
+
+Tasked with completing a comprehensive bootcamp on application security fundamentals by JPMorgan Chase & Co., participants are poised to enhance their understanding of critical security measures. As a global service provider, ensuring the security of customer information stands as a paramount concern, requiring collective vigilance across all teams. Integral to system development, software engineers are tasked with implementing secure coding practices and adopting an attacker's mindset in system design. Moreover, in the context of today's remote work environment, security considerations permeate daily activities, emphasizing the need for stringent security measures. This bootcamp aims to equip participants with the requisite knowledge and skills to effectively address security challenges and fortify overall security protocols.
+
+#Task Three
+
+Business Email Compromise (BEC) stands as a prominent cybercrime targeting email systems, categorized into five types: CEO fraud, account compromise, false invoice scheme, attorney impersonation, and data theft. The initial point of entry is often an innocuous-looking email. Presently, corporate email undergoes rigorous scanning before reaching recipients' inboxes, with suspicious emails being filtered out during this process. However, emails are intricate entities containing various components such as text, headers, hyperlinks, inline images, and attachments, all of which are scrutinized during scanning. Despite significant advancements in machine learning-driven detection systems, attackers continuously refine their methods, necessitating ongoing enhancements in detection systems. The task at hand involves constructing a functional prototype of such a system.
+
+#Task Four
+
+Tasked with designing a system to simulate restricting the number of roles a user can possess simultaneously, it's essential to delve into crucial access control concepts. Users holding multiple roles pose heightened risks to organizations; in the event of a compromised account, attackers gain a substantial advantage. Therefore, administrators seek automated solutions to enforce the principle of least privilege, ensuring users are assigned only the necessary roles while eliminating unnecessary ones. The system under design aims to tackle one of the numerous challenges associated with such access control systems.
